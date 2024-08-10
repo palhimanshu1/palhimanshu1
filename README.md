@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Himanshu Pal</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <img alight="right alt ="Numbers" src="https://www.pinterest.com/pin/coding-gif-coding-discover-share-gifs--858428378991517366/">
