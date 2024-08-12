@@ -3,8 +3,10 @@
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palhimanshu1&label=Profile%20views&color=0e75b6&style=flat" alt="palhimanshu1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palhimanshu1" alt="palhimanshu1" /></a> </p>  
+<div style="display:flex;">
+<img src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" width="500" style="margin-right:10px;"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+</div>
 
 <p align="left"> <a href="https://twitter.com/" target="https://www.threads.net/@mr_himms_20"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
