@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **hmanshupal3024@gmail.com**
 
-- 📄 Know about my experiences [Resume Link]([https://drive.google.com/file/d/1KV8JGnKpmHjBxJPHoBLJ0N05FADbr3bF/view?usp=drive_link](https://drive.google.com/file/d/1F98yIiHD9tsEM8f2s9m_dXTLetF5_IH2/view?usp=drive_link))
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1F98yIiHD9tsEM8f2s9m_dXTLetF5_IH2/view?usp=drive_link)
 
 - ⚡ Fun fact **I DON'T QUIT**
 
